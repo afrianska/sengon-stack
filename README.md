@@ -1,8 +1,10 @@
-# RN Sengon Stack
+# Welcome to Sengon Stack 👋
 
-This is a minimal React-Native stack to serve as a starting point for demos. Learn more about [React-Native](https://reactnative.dev/).
+This is a minimal React-Native stack to serve as a starting point for demos.
 
-## What's in the stack
-
-- [React-Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
+Current Dependecies installed:
+- React Native
+- Expo & Expo Router
+- Tanstack React Query (API Integration)
+- Zustand (State management)
+- MMKV (Storage)
